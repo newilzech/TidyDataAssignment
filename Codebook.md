@@ -1,10 +1,10 @@
 # Variable List for run_analysis.R
 
 actv_labels:
--To store data of activity_labels.txt
+- To store data of activity_labels.txt
 
 features:
--To store data of features.txt
+- To store data of features.txt
 
 xTrain:
 - To store data of X_train.txt
